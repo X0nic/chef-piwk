@@ -3,6 +3,8 @@ DESCRIPTION
 
 Installs piwik using nginx and php-fastcgi either on a single server or on a cluster of server for high traffic sites.
 
+Cloned from: http://community.opscode.com/cookbooks/piwik
+
 REQUIREMENTS
 ====
 
